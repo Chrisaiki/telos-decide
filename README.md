@@ -44,7 +44,7 @@ Full docuementation can be found in the [Telos Docs](https://docs.telos.net/telo
 
 | Name | Description |
 | --- | --- |
-| [Starter Guide](docs/StarterGuide.md) | Breakdown of features for developers. |
+| [Test Telos Decide](docs/Testnetdecide.md) | test Telos decide on test-net. |
 | [Voter Guide](docs/VoterGuide.md) | How to become a voter and participate in ballots. |
 | [Treasury Guide](docs/TreasuryGuide.md) | How to create and manage Treasuries. |
 | [Worker Guide](docs/WorkerGuide.md) | How to perform work and the types of jobs available. |
@@ -70,6 +70,11 @@ Full docuementation can be found in the [Telos Docs](https://docs.telos.net/telo
 
 - Delegates, Delegate Voting
 - External Token Mirroring
+
+### Q3 2020
+
+- Install Telos Decide on test-net, free access
+- telos Decide Challenge on Takai.network
 
 ### Down Yonder
 
